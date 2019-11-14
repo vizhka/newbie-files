@@ -39,5 +39,5 @@ print(out)
 for i in 'Hello world!':
     if i == 'о':
          continue
-    print(i * 2, end='')
+    print(i * 2, end= '')
 print(i)
