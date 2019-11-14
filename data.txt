@@ -1,0 +1,4 @@
+#name Email Phone
+peter piter.seredenko@gmail.com 356-4755
+Admin admin@test.ru 313-1456
+support support@yandex.ru 123-4564

@@ -1,0 +1,6 @@
+f = open('data.txt', 'w')
+f.write('#name Email Phone\n')
+f.write('peter piter.seredenko@gmail.com 356-4755\n')
+f.write('Admin admin@test.ru 313-1456\n')
+f.write('support support@yandex.ru 123-4564\n')
+f.close()
